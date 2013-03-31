@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/cut.png</file>
+        <file>images/copy.png</file>
+        <file>images/paste.png</file>
+        <file>images/find.png</file>
+        <file>images/gotocell.png</file>
+        <file>images/ccw.png</file>
+        <file>images/cw.png</file>
+        <file>images/in.png</file>
+        <file>images/out.png</file>
+        <file>images/next.png</file>
+        <file>images/pre.png</file>
+        <file>images/logo.png</file>
+        <file>images/snail.png</file>
+        <file>images/snail2.png</file>
+        <file>images1/Action Redo.png</file>
+        <file>images1/Action Undo.png</file>
+        <file>images1/Arrow - Right.png</file>
+        <file>images1/Arrow - Up.png</file>
+        <file>images1/Arrow Next.png</file>
+        <file>images1/Arrow Previous.png</file>
+        <file>images1/Arrow2 - Down.png</file>
+        <file>images1/Arrow2 - Left.png</file>
+        <file>images1/Arrow2 - Right.png</file>
+        <file>images1/Arrow2 - Up.png</file>
+        <file>images1/Clipboard Copy.png</file>
+        <file>images1/Clipboard Cut.png</file>
+        <file>images1/Clipboard Paste.png</file>
+        <file>images1/Close.png</file>
+        <file>images1/Document.png</file>
+        <file>images1/Folder Open.png</file>
+        <file>images1/Folder Up.png</file>
+        <file>images1/Folder.png</file>
+        <file>images1/Printer.png</file>
+        <file>images1/Rccw.png</file>
+        <file>images1/Rcw.png</file>
+        <file>images1/Save.png</file>
+        <file>images1/Search.png</file>
+        <file>images1/Text2.png</file>
+        <file>images1/Zoom In.png</file>
+        <file>images1/Zoom Out.png</file>
+        <file>images2/Zoom In.png</file>
+        <file>images2/Zoom Out.png</file>
+        <file>images1/Fullscreen.png</file>
+    </qresource>
+</RCC>
